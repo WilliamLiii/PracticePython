@@ -1,3 +1,5 @@
+# define a function to create Fibonnaci numbers which is a sequence of number where the next number in the sequence
+# is the sum of previous two
 def Fibonnaci(n):
     if n == 0:
         result = None
